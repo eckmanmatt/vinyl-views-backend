@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-8a#8(!qmbfv=0%m9xd&2_vaga!bd90njekh360mqkam+5=gd34
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost' , 'https://intense-chamber-13337.herokuapp.com/']
+ALLOWED_HOSTS = ['localhost' , 'vinyl-django.herokuapp.com/']
 
 
 # Application definition
