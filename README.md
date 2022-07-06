@@ -1,1 +1,0 @@
-# vinyl-views-backend
